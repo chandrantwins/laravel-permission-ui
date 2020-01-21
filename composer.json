@@ -1,12 +1,12 @@
 {
-    "name": "darwinsalinas/laravel-permission-ui",
+    "name": "chandrantwins/laravel-permission-ui",
     "description": "Simple UI for spatie-laravel-permission",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Darwin",
-            "email": "salinash2000@gmail.com"
+            "name": "chandran nepolean",
+            "email": "chandrantwins@gmail.com"
         }
     ],
     "minimum-stability": "dev",
